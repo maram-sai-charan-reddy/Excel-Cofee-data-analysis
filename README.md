@@ -20,6 +20,13 @@ Starting with a simple dataset of coffee orders, this project explores advanced 
 10. **Timeline and Slicers** - Interactive tools for dynamic data exploration.
 11. **Dashboard Building** - Integrating various data visualizations into a cohesive dashboard.
 
+## Final Dashboard
+
+Here is what the final dashboard looks like after applying the Excel techniques:
+
+![Final Dashboard](FinalDashboard.png)
+
+
 ## Installation
 
 No installation is required, as the project is done entirely in Excel. However, you will need Microsoft Excel (version 2016 or later recommended) to open and interact with the provided `.xlsx` files.
